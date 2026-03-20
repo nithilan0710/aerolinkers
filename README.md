@@ -19,6 +19,6 @@ aerolinkers/
 - **embedded-dev** — Embedded firmware including driver libraries, header files, build configuration, and device tree overlays.
 
 ## Maintained by
-Team AeroLinkers __
-KSRCT - ECE __
+Team AeroLinkers  
+KSRCT - ECE  
 aerolinkers-ksrct@gmail.com
